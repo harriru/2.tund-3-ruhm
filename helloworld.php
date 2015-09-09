@@ -35,3 +35,9 @@
 
 
 ?>
+<br>
+<?php
+
+	//trükkivälja kuupäev: nädalapäev, kp kuu aasta
+	echo date ("l,j, F, Y ,e ");
+?>
